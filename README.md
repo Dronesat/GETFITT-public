@@ -1,5 +1,5 @@
 # GETFITT-public
-Health Application
+
 
 # Installation Guide
 ###  Install SqlExpress localdb
