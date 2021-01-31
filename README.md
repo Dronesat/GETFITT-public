@@ -1,5 +1,5 @@
 # GETFITT-public
-Latest version: 0.9.2
+Latest version: 092 build
 
 # Installation Guide
 
