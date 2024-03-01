@@ -12,6 +12,7 @@ After creating an account, users are taken to a main page. Here they can navigat
 
 ## 2. Workout Planner and Tracking Pages
 `Users can create their own workout by simply choosing exercises then add them to workout list. The program will create a workout with countdown timer. User can follow instruction from the countdown and perform their desired workout.`
+
 <img src="https://github.com/Dronesat/GETFITT-public/assets/20153310/41964d42-8429-4d56-b579-385fe3fdcbe0" width="500" height="300">
 <img src="https://github.com/Dronesat/GETFITT-public/assets/20153310/4d6b9547-c532-4eeb-b421-719d229e39da" width="500" height="300">
 
