@@ -4,8 +4,8 @@
 `<img src="" width="500" height="300">`
 # DEMO
 ## 1. Main page and Login/Signup
-This program support multiple user accounts. 
-After creating an account, users are taken to a main page. Here they can navigate to all of the features.
+<pre>This program support multiple user accounts. 
+After creating an account, users are taken to a main page. Here they can navigate to all of the features. </pre>
 
 <img src="https://github.com/Dronesat/GETFITT-public/assets/20153310/69da718e-fb91-49a5-8ba7-287811fce688" width="500" height="300">
 <img src="https://github.com/Dronesat/GETFITT-public/assets/20153310/52eeda56-a061-4455-8990-922d126e2df8" width="500" height="300">
