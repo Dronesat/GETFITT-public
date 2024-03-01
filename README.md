@@ -1,4 +1,4 @@
-# GETFITT-public
+# GETFITT - A fitness solution to help people get a healthy life during lockdown.  
 
 # Installation Guide
 
