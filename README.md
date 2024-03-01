@@ -27,7 +27,7 @@ BMI, BMR, Weight results are tracked and display onto graphs which allows users 
 # Modular Structure
 <img src="https://github.com/Dronesat/GETFITT-public/assets/20153310/58add4a0-8cca-4450-9462-7e07ed0e8d2c" width="700" height="400">
 
-# Developing Platform:
+# Technology:
 - Visual Studio 2019: Windows Presentation Foundation (WPF)
 - Database: Microsoft SQL Server 2019 Express
   
